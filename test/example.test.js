@@ -8,9 +8,9 @@ const test = QUnit.test;
 test('time to test a function', function(assert) {
     //Arrange
     // Set up your parameters and expectations
-const result = isYes('yes');
-const result2 = isYes('y');
-const result3 = isYes('no');
+    const result = isYes('yes');
+    const result2 = isYes('y');
+    const result3 = isYes('no');
 
 
     //Act 
